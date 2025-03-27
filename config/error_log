@@ -1,0 +1,16 @@
+[20-May-2024 01:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php on line 18
+[21-Jul-2024 11:38:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php on line 18
+[20-Sep-2024 17:18:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php on line 18
+[21-Sep-2024 18:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home4/forebbnz/stimuli.forebearpro.co.in/config/database.php on line 18
